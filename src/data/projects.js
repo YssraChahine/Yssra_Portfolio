@@ -16,19 +16,17 @@ export const projects = [
     githubUrl: "",
   },
   {
-    title: "Task Management App",
+    title: "BriefPilot",
     type: "React Frontend App",
     description:
-      "Eine Aufgabenverwaltungs-App mit Filterlogik, dynamischem State Management und persistenter Speicherung im Browser.",
-    techStack: ["React", "JavaScript", "Styled Components", "LocalStorage"],
+      "BriefPilot ist eine moderne Web-App zur einfachen Erstellung professioneller Schreiben. Nutzer können relevante Informationen eingeben und daraus strukturierte Briefe für verschiedene Alltagssituationen wie Kündigungen, Beschwerden oder Anfragen erstellen.",
+    techStack: ["React", "JavaScript", "CSS", "Vercel"],
     highlights: [
-      "Filterfunktionen für Aufgaben",
-      "Persistenz über LocalStorage",
-      "Wiederverwendbare Komponenten",
-      "Saubere React-State-Struktur",
+      "Konzeption und Umsetzung einer React-basierten Frontend-App mit klarem Fokus auf Benutzerfreundlichkeit",
+      "Entwicklung dynamischer Formularbereiche zur strukturierten Erfassung von Briefdaten",
+      "Deployment der Anwendung über Vercel mit responsivem Layout für Desktop und Mobile",
     ],
-    liveUrl: "",
-    githubUrl: "",
+    liveUrl: "https://brief-pilot-ncqfyxxo4-yssrachahines-projects.vercel.app/",
   },
   {
     title: "Shift Schedule App",

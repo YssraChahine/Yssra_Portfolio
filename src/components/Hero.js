@@ -26,7 +26,7 @@ export default function Hero() {
             <PrimaryLink href="#projects">Projekte ansehen</PrimaryLink>
 
             <SecondaryLink
-              href="/CV_Yssra_Webentwicklung.pdf"
+              href="/CV_Yssra_WebDev_DE.pdf"
               target="_blank"
               rel="noreferrer"
             >
@@ -43,11 +43,6 @@ export default function Hero() {
             <StatItem>
               <StatNumber>React</StatNumber>
               <StatText>Frontend Fokus</StatText>
-            </StatItem>
-
-            <StatItem>
-              <StatNumber>8+ Jahre</StatNumber>
-              <StatText>Web & Digital</StatText>
             </StatItem>
           </StatsRow>
         </TextContent>
